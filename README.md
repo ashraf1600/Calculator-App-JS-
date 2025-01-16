@@ -14,3 +14,5 @@ This project is a simple, yet functional calculator built entirely with HTML, CS
 - Separate display for calculation results
 - Responsive design for various screen sizes
 
+# live link
+https://fluffy-marigold-b6371f.netlify.app/
